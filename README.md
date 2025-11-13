@@ -239,7 +239,8 @@ The repository includes high-quality screenshots of all six dashboard pages:
 
 ## 📁 Repository Structure
 
-data_chinook_dashboard/
+data_chinook_dashboard/  
+
 │
 │── overview-page.jpg  
 
