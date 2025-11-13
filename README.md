@@ -241,13 +241,20 @@ The repository includes high-quality screenshots of all six dashboard pages:
 
 data_chinook_dashboard/
 │
-│── overview-page.jpg
-│── sales-dashboard.jpg
-│── customers-dashboard.jpg
-│── employees-dashboard.jpg
-│── tracks-dashboard.jpg
-│── artist-dashboard.jpg
-└── README.md
+│── overview-page.jpg  
+
+│── sales-dashboard.jpg  
+
+│── customers-dashboard.jpg  
+
+│── employees-dashboard.jpg  
+
+│── tracks-dashboard.jpg  
+
+│── artist-dashboard.jpg  
+
+└── README.md  
+
 
 
 ### Technologies Used
@@ -259,9 +266,12 @@ data_chinook_dashboard/
 ---
 
 ## 📧 Contact & Connect
-Feel free to reach out to discuss this project or potential collaborations! 
-**LinkedIn**: [MyLinkedIn](https://www.linkedin.com/in/hossam-badawy)
-**Email**: hossam.mousa779@gmail.com
+Feel free to reach out to discuss this project or potential collaborations!  
+
+**LinkedIn**: [MyLinkedIn](https://www.linkedin.com/in/hossam-badawy)  
+
+**Email**: hossam.mousa779@gmail.com  
+
 
 ---
 
